@@ -1,0 +1,16 @@
+.FOTO-PERFIL{
+    margin: 0;
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+  }
+  body { background: rgb(74, 43, 138) !important; }
+  .informacion {
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 45px;
+    width: 80%;
+    padding: 10px;;
+    border: 5px solid #241750;
+    background-color: rgb(254, 254, 254);
+  }
